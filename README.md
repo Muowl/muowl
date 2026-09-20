@@ -1,32 +1,29 @@
-<div align="center">
-
 # Felipe Lazzarini
 
-**Full-stack developer** building web products, developer tools, and clear interfaces.
+**Full-stack developer**
 
-[Portfolio](https://muowl.dev) · [Email](mailto:felipe.cunha@archbyte.com.br)
+Building web applications and developer tools since 2020. Studying Information Systems at UFJF.
 
-</div>
+Minas Gerais, Brazil · [Portfolio](https://muowl.dev) · [Email](mailto:felipe.cunha@archbyte.com.br)
 
----
+## Selected work
 
-I work across frontend and backend, with a focus on maintainable applications, thoughtful interfaces, and practical delivery. I have been building for the web since 2020 and currently study Information Systems at UFJF.
+**[muowl.dev](https://muowl.dev)**  
+Bilingual portfolio showcasing projects and developer themes, built with Astro.
 
-### Stack
+**[Carmilla](https://github.com/Muowl/carmilla)**  
+A warm dark theme for VS Code, with a shared palette and documented color system.
 
-**Frontend:** TypeScript, React, Next.js, Astro, HTML, CSS  
-**Backend:** PHP, Laravel, Node.js, WordPress  
-**Data & tooling:** PostgreSQL, MySQL, SQLite, Docker, Git
+**[Visual Funnel Editor](https://github.com/Muowl/atividade-react-flow-twr)**  
+A React and TypeScript canvas for campaign funnels, with connection validation and local persistence.
 
-### Selected work
+**[Spotify Dataset Explorer](https://github.com/Muowl/spotify-dataset-explorer)**  
+Exploratory analysis of Spotify audio features, with a Jupyter notebook and web visualizations.
 
-| Project | Description | Built with |
-| --- | --- | --- |
-| [muowl.dev](https://muowl.dev) | Bilingual portfolio for projects, experiments, and developer themes. | Astro, TypeScript |
-| [Carmilla](https://github.com/Muowl/carmilla) | A warm dark theme published for VS Code, built from a portable color system. | TypeScript, TOML |
-| [Visual Funnel Editor](https://github.com/Muowl/atividade-react-flow-twr) | Interactive campaign funnel editor with connection validation and local persistence. | React, React Flow, TypeScript |
-| [Spotify Dataset Explorer](https://github.com/Muowl/spotify-dataset-explorer) | Reproducible exploratory analysis and interactive views of Spotify audio features. | Python, Jupyter, HTML |
+## Stack
 
----
+**Frontend** · TypeScript, React, Next.js, Astro, HTML, CSS  
+**Backend** · PHP, Laravel, Node.js, WordPress  
+**Data & tooling** · PostgreSQL, MySQL, SQLite, Docker, Git
 
-<sub>Based in Juiz de Fora, Brazil · Open to frontend and full-stack opportunities.</sub>
+<sub>Open to frontend and full-stack opportunities.</sub>
